@@ -5,6 +5,6 @@ The implementation of the YOLO v5 object detection model using boudning boxes on
 
 ## The dataset contains 20 unique classes distributed, categorized into 4 main classes as follows:
 <b>Person:</b> person <br />
-Animal: bird, cat, cow, dog, horse, sheep <br />
-Vehicle: aeroplane, bicycle, boat, bus, car, motorbike, train <br />
-Indoor: bottle, chair, dining table, potted plant, sofa, tv/monitor <br />
+<b>Animal:</b> bird, cat, cow, dog, horse, sheep <br />
+<b>Vehicle:</b> aeroplane, bicycle, boat, bus, car, motorbike, train <br />
+<b>Indoor:</b> bottle, chair, dining table, potted plant, sofa, tv/monitor <br />
